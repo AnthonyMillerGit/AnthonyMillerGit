@@ -1,7 +1,7 @@
 
 - 👨‍💻	 Full Stack Web Developer
 - 💻 Exploring new technologies and developing software solutions and quick hacks.
-- :seedling:Currently working with React.js | Redux | HTML | CSS | JavaScript | PostgreSQL | Knex | Node.js | Express
+- :seedling:Currently working with Golang | React.js | Redux | HTML | CSS | JavaScript | PostgreSQL | Knex | Node.js | Express
 - :zap: Open for project collaboration
 - :mailbox: How to reach me via  email:ehitsamill@gmail.com
 - :globe_with_meridians:  <a href="https://www.linkedin.com/in/anthony-miller-88768842/">LinkedIn</a>
