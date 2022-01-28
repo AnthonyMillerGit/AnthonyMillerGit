@@ -1,6 +1,6 @@
 
 - 👨‍💻	 Full Stack Web Developer
-- :thinking_face: Exploring new technologies and developing software solutions and quick hacks.
+- 💻: Exploring new technologies and developing software solutions and quick hacks.
 - :seedling:Currently working with React.js | Redux | HTML | CSS | JavaScript | PostgreSQL | Knex | Node.js | Express
 - :zap: Open for project collaboration
 - :mailbox: How to reach me via email:ehitsamill@gmail.com
