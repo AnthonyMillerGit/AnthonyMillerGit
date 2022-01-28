@@ -1,5 +1,5 @@
 
-- U+1F468 U+200D U+1F4BB	 Full Stack Web Developer
+- 👨‍💻	 Full Stack Web Developer
 - :thinking_face: Exploring new technologies and developing software solutions and quick hacks.
 - :seedling:Currently working with React.js | Redux | HTML | CSS | JavaScript | PostgreSQL | Knex | Node.js | Express
 - :zap: Open for project collaboration
