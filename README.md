@@ -8,6 +8,6 @@
 - :speech_balloon: If I’m not programming I am likely watching sports, spending time with family, or cooking.
 - 
 - Tech Stack Includes:
-- - Frontend: React.js, Redux, Hooks, Context API, Jest, Cypress, Axios, JavaScript, HTML, CSS, Gin
+- - Frontend: React.js, Redux, Hooks, Context API, Jest, Cypress, Axios, JavaScript, HTML, CSS
 - - Backend: Golang, Node.js, Express, SQL, PostgreSQL, MongoDB, Git CLI, GitHub, VS Code, Vercel, Heroku, Netlify
 - - Additional Skills: Agile Project Management, Algorithms, Architecture, Debugging, Deployment
