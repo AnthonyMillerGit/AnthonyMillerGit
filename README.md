@@ -1,6 +1,6 @@
 
 - 👨‍💻	 Software Engineer | Cloud Architect
-- 💻 Exploring new technologies and developing software solutions and quick hacks.
+- 💻 Exploring new technologies and developing software solutions.
 - 🕗 Currently working with Golang | React.js | Redux | HTML | CSS | JavaScript | PostgreSQL | Node.js | Express | AWS | Terraform
 - 👋 Open for project collaboration
 - :mailbox: How to reach me via email: ehitsamill@gmail.com
